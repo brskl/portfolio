@@ -1,3 +1,28 @@
 body { 
-  background: lightgray
+  background: lightgray;
+}
+
+h1 {
+  border: blue solid;
+  background: white;
+}
+
+header h1 {
+  text-align: center;
+}
+
+header {
+  border-bottom: black dashed;
+}
+
+footer {
+  border-top: black solid;
+}
+
+a:visited {
+  color:red;
+}
+
+a:hover {
+  color:brown;
 }
