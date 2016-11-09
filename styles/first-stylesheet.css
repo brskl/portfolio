@@ -44,6 +44,10 @@ li:first-letter {
   font-size: 140%
 }
 
+h2 {
+  font-family: 'Righteous', cursive;
+}
+
 img {
   padding: 5px;
   border: solid;
