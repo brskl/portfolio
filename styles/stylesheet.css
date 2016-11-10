@@ -53,5 +53,10 @@ img {
 
 .copyright {
   text-align: center;
-
 }
+
+figure {
+  float: right;
+}
+
+
