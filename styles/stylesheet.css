@@ -2,28 +2,8 @@ body {
   background: lightgray;
 }
 
-h1 {
-  border: blue solid;
-  background: white;
-}
-
 header h1 {
   text-align: center;
-}
-
-header {
-  border-bottom: black dashed;
-  margin-bottom: 2em;
-}
-
-footer {
-  border-top: solid;
-  border-top-color: black;
-  margin-top: 1em;
-}
-
-a:visited {
-  color: red;
 }
 
 a:hover {
@@ -37,11 +17,6 @@ nav a {
 figcaption {
   font-style: italic;
   font-family: 'Itim', cursive;
-}
-
-li:first-letter {
-  font-weight: bold;
-  font-size: 140%
 }
 
 h2 {
