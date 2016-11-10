@@ -1,9 +1,32 @@
 body { 
-  background: lightgray;
+  background: #ff66ff;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+header
+{
+  background: Coral;
+  padding: 5px;
+}
+
+footer {
+  background: DarkMagenta;
+  padding: 10px;
+  color: white;
+}
+
+footer a {
+  color: wheat;
 }
 
 header h1 {
   text-align: center;
+}
+
+article {
+  background: Magenta;
+  padding: 5px;
 }
 
 a:hover {
@@ -25,6 +48,10 @@ h2 {
 
 img {
   padding: 5px;
-  border: solid;
-  border-color: chocolate;
+  background: black;
+}
+
+.copyright {
+  text-align: center;
+
 }
