@@ -59,4 +59,13 @@ figure {
   float: right;
 }
 
+/* tried li:nth-type-of() but didn't work in Chrome */
+li:nth-child(even){
+  list-style-type: square;
+}
+
+li:nth-child(odd){
+  list-style-type: circle;
+}
+
 
