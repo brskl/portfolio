@@ -68,4 +68,10 @@ li:nth-child(odd){
   list-style-type: circle;
 }
 
+img:hover {
+  transform:scale(4,4) rotate(360deg);
+  transition: all 3s ease 0s;
+  background: white;
+}
+
 
