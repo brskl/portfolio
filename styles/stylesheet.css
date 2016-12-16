@@ -1,17 +1,17 @@
 body { 
-  background: #ff66ff;
+  background: LightGray;
   padding-left: 5%;
   padding-right: 5%;
 }
 
 header
 {
-  background: Coral;
+  background: LightSlateGray;
   padding: 5px;
 }
 
 footer {
-  background: DarkMagenta;
+  background: LightSlateGray;
   padding: 10px;
   color: white;
 }
@@ -25,7 +25,7 @@ header h1 {
 }
 
 article {
-  background: Magenta;
+  background: LightSkyBlue;
   padding: 5px;
 }
 
